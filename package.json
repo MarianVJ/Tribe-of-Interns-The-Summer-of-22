@@ -1,0 +1,20 @@
+{
+  "name": "tribe-of-interns-the-summer-of-22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Vladut.Jorascu.js",
+  "scripts": {
+    "start": "node Vladut.Jorascu.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianVJ/Tribe-of-Interns-The-Summer-of-22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianVJ/Tribe-of-Interns-The-Summer-of-22/issues"
+  },
+  "homepage": "https://github.com/MarianVJ/Tribe-of-Interns-The-Summer-of-22#readme"
+}
